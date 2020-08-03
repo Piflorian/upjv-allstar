@@ -1,0 +1,32 @@
+
+	-- PROJET DE PIAULT FLORIAN & QUENEL LAURENT --
+
+============================
+
+Avant tout, j'aimerais indiquer qu'ayant inversé deux fichiers .zip, j'ai 
+malheuresement effacé la sauvegarde la plus récente au lieu de celle juste avant.
+Du coup le code présent est un code plus instable, non fini, mais tout de même fonctionnel.
+Je met le lien de présentation du jeu en version finie dans ce fichier texte.
+
+============================
+
+1/ Lancement du jeu
+	
+	WINDOWS: Il y a un fichier .exe (projet_alpha.exe) dans le dossier qui lancera 
+		 le jeu
+
+
+============================
+
+2/ Commandes
+
+	Mouvements: touches directionnelles / ZQSD
+	Tirs	  : clics de la souris
+	Shift	  : avancer plus vite
+
+
+============================
+
+3/ Vidéo de présentation
+	
+	Lien: https://www.youtube.com/watch?v=gPUl7vOn0JA
